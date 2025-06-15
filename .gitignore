@@ -1,4 +1,7 @@
-AIRWAY.txt
-ISEC.txt
-Data/NAV/AIRWAY.txt
-Data/NAV/ISEC.txt
+.sentry-native/
+*.rwy
+version.txt
+euroscope_sector_providers.txt
+SectorFileProviderDescriptor.txt
+Documentation/
+.DS_Store
