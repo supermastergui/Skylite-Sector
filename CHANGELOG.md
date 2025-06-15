@@ -7,3 +7,4 @@
 1. 删除  .ese、.sct开头的声明，加入Skylite的声明
 1. 修改Profile
 1. 修改Ip_address
+1. 修改General

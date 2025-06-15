@@ -34,7 +34,7 @@ m_AllowAssumedACTagDown:0
 m_InhibitAutoPushOnHandoff:0
 m_RandomSquawks:1
 m_VFRSquawks:7000
-m_WhoIsOnlineURL:http://vatsim.metacraft.com/vatsim-data.txt
+m_WhoIsOnlineURL:
 m_AutoLoadMetarForActiveAirports:0
 m_LockShowRouteWhenAccepting:0
 m_VoiceAtisBuilderUrl:http://vacchun.hu/td/esmetar.php?tlcond=100,1013,110&metar=$metar($atisairport)&arr=$arrrwy($atisairport)&dep=$deprwy($atisairport)&app=ILS&par=1&info=$atiscode&lvp=2
@@ -73,7 +73,7 @@ m_AllowCorrelatedTAGDown:1
 m_ShowDetailedOverUntagged:1
 m_ShowRectAroundFPTrack:1
 m_ShowRectAroundASEL:0
-m_VatsimStatusURL:http://status.vatsim.net/
+m_VatsimStatusURL:
 m_OverrideWhoIsOnlineURL:0
 m_ShowVFRFlightPlanTrack:0
 m_ShowIFRFlightPlanTrack:1
