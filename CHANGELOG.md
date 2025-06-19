@@ -8,3 +8,4 @@
 1. 修改Profile
 1. 修改Ip_address
 1. 修改General
+1. 修改各prf以适配F1+123456789切换
