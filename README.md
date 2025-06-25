@@ -5,46 +5,81 @@ Skylite ¿ªÔ´ÉÈÇøÏîÄ¿ÖÂÁ¦ÓÚÌá¹©Ãâ·Ñ¡¢¿ªÔ´µÄ Euroscope ÉÈÇøÒÔ°ïÖúÀ´×ÔÊÀ½ç¸÷µØµÄÄ£Ä
 
 Èç¹ûÄúÔÚÊ¹ÓÃÉÈÇøµÄ¹ı³ÌÖĞÓöµ½ÁËÈÎºÎÎÊÌâ¡¢»òÕßÓĞÈÎºÎºÃµÄ½¨Òé£¬»¶Ó­ÔÚ ``Issues`` Ò³ÏòÎÒÃÇÌá³ö£¡
 
-Èç¹ûÄúÏ²»¶±¾ÉÈÇø£¬»¶Ó­Äú¸øÉÈÇøµãµã``star``, »òÕßÔÚÏÂ·½ÔŞÉÍÎÒÃÇ£¬ÄúµÄÖ§³ÖÊÇÎÒÃÇ¸üĞÂµÄ¶¯Á¦£¡
+Èç¹ûÄúÏ²»¶±¾ÉÈÇø£¬»¶Ó­Äú¸øÉÈÇøµãµã``Star``, »òÕßÔÚÏÂ·½ÔŞÉÍÎÒÃÇ£¬ÄúµÄÖ§³ÖÊÇÎÒÃÇ¸üĞÂµÄ¶¯Á¦£¡
 
+------
 
-
-±¾ÉÈÇøËäÃûÎªSkylite¿ªÔ´ÉÈÇø£¬µ«±¾ÖÊÎªAirAmaz-SectorµÄÑÜÉúÎï£¬°´ÕÕ[GPL-3.0 Ğí¿ÉÖ¤](https://github.com/AirAmaz/AirAmaz-Sector?tab=GPL-3.0-1-ov-file#)½øĞĞ¿ªÔ´´¦Àí¡£
+±¾ÉÈÇøËäÃûÎªSkylite¿ªÔ´ÉÈÇø£¬µ«±¾ÖÊÎªAirAmaz-SectorµÄÑÜÉúÎï£¬°´ÕÕ[GPL-3.0 Ğí¿ÉÖ¤](./LICENSE)½øĞĞ¿ªÔ´´¦Àí¡£
 
 Èç¹ûÄãÏë¼ÓÈëSkyliteÄ£Äâ·ÉĞĞÆ½Ì¨£¬Çë¼ÓÈëQQÈºÁÄ£º[1041264930](https://qm.qq.com/q/nch2dkleX6)
 
+------
+
 ### ·ÉĞĞÇé±¨Çø
 
-- ZBPE - AIRAC2413
-- ZGZU - AIRAC2413
-- ZHWH - AIRAC2413
-- ZJSA - AIRAC2413
-- ZLHW - AIRAC2413
-- ZPKM - AIRAC2413
-- ZSHA - AIRAC2413
-- ZWUQ - AIRAC2413
-- ZYSH - AIRAC2413
+<img src="./assets/Airspace.jpeg" alt="FIR|500x500" style="zoom:30%;" />
+
+*×¢£º´ËÍ¼×ª×Ôhttps://www.vatprc.net/zh-cn/airspace/fir*
+
+> [!NOTE]
+>
+> VATPRC¶ÔÓÚÇé±¨Çø»®·Ö²¢²»Ò»¶¨ÓëÕæÊµÊÀ½çÖĞµÄÇé±¨Çø»®·ÖÍêÈ«Ò»ÖÂ¡£
+>
+> Îª±ÜÃâÕùÒé£¬ÉÏÊöÊ¾ÒâÍ¼½öÎª VATPRC**Ö÷Òª**¹ÜÏ½·¶Î§¡£
+>
+> ÇëÎğÎó½«Æäµ±×÷ÕæÊµÖĞµÄÇé±¨Çø»®·Ö¡£
+
+| Çé±¨ÇøÃû³Æ | µ¼º½Êı¾İ°æ±¾ |
+| ---------- | ------------ |
+| ZBPE       | AIRAC2413    |
+| ZGZU       | AIRAC2413    |
+| ZHWH       | AIRAC2413    |
+| ZJSA       | AIRAC2413    |
+| ZLHW       | AIRAC2413    |
+| ZPKM       | AIRAC2413    |
+| ZSHA       | AIRAC2413    |
+| ZWUQ       | AIRAC2413    |
+| ZYSH       | AIRAC2413    |
+
+------
 
 ### Ç°ÖÃÒªÇó
-1. Îª±£Ö¤ÉÈÇøÄÜ¹»Õı³£¼ÓÔØ£¬ÄúĞèÒª°²×°×îĞÂµÄ Microsoft Visual C++ (x86) ¿ÉÔÙ·¢ĞĞ³ÌĞò°ü°æ±¾: https://aka.ms/vs/17/release/vc_redist.x86.exe
-2. Í¬Ê±ÄúĞèÒª°²×° DirectX Runtime ÒÔÖ§³ÖÎÒÃÇµÄäÖÈ¾¿âÔËĞĞ: https://www.microsoft.com/en-us/download/details.aspx?id=35
+1. Îª±£Ö¤ÉÈÇøÄÜ¹»Õı³£¼ÓÔØ£¬ÄúĞèÒª°²×°×îĞÂµÄ Microsoft Visual C++ (x86) ¿ÉÔÙ·¢ĞĞ³ÌĞò°ü°æ±¾: 
+   - https://aka.ms/vs/17/release/vc_redist.x86.exe
+2. Í¬Ê±ÄúĞèÒª°²×° DirectX Runtime ÒÔÖ§³ÖÎÒÃÇµÄäÖÈ¾¿âÔËĞĞ: 
+   - https://www.microsoft.com/en-us/download/details.aspx?id=35
 
+------
 
 ### °üº¬²å¼ş
-- TopSky Plugin(Closed source) - Juha Holopainen
-- Ground Radar plugin(Closed source)  - Juha Holopainen
-- MTEPlugin - [KingfuChan](https://github.com/KingfuChan/MTEPlugin-for-EuroScope)
-- RDF Plugin - [KingfuChan](https://github.com/KingfuChan/RDF)
-- VCH Plugin - [Jan Fries](https://github.com/DrFreas/VCH)
-- Compass for Euroscope(Closed source) - [William He](https://github.com/fwilliamhe)
-- AirAmaz RenderPlugin(Closed source now, still incomplete) - [William He](https://github.com/fwilliamhe)
+
+| ²å¼şÃû³Æ                    | Ö÷Òª×÷Õß                                                     |
+| --------------------------- | ------------------------------------------------------------ |
+| TopSky Plugin(±ÕÔ´)         | [Juha Holopainen](https://forum.vatsim-scandinavia.org/u/839337) |
+| Ground Radar plugin(±ÕÔ´)   | [Juha Holopainen](https://forum.vatsim-scandinavia.org/u/839337) |
+| MTEPlugin for EuroScope     | [KingfuChan](https://github.com/KingfuChan)                  |
+| VCH Plugin                  | [Jan Fries](https://github.com/DrFreas)                      |
+| Compass for Euroscope(±ÕÔ´) | [William He](https://github.com/Misaka-Nnnnq)                |
+| AirAmaz RenderPlugin(±ÕÔ´)  | [William He](https://github.com/Misaka-Nnnnq)                |
+
+------
 
 ### Íâ²¿ÄÚÈİ
 - TopSky Symbols from [uk-controller-pack](https://github.com/VATSIM-UK/uk-controller-pack)
-- ICAO_* files from 2313 [VATPRC](https://www.vatprc.net/) Sector
 - TopSky Cursors from [VATPRC](https://www.vatprc.net/)
 
+------
+
+### ¸üĞÂÈÕÖ¾
+
+°´ÕÕ[GPL-3.0 Ğí¿ÉÖ¤](./LICENSE)ÒªÇó£¬ÎÒÃÇÒÑ¾­½«¸üĞÂÈÕÖ¾½«»á¼ÇÂ¼ÔÚ[CHANGELOG.md](./CHANGELOG.md)ÉÏÃæ
+
+ÎÄÕÂ¿ªÍ·µÄ×¢ÊÍÓÉÓÚ±¾ÈËÔÚÖÆ×÷Ê±Ã»ÓĞ¼°Ê±²ì¾õ´ËÎÊÌâ£¬ÎÒÃÇ½«ÔÚ½üÆÚ½øĞĞ²¹È«
+
+------
+
 ### ¹±Ï×Õß
+
 - [William He](https://github.com/fwilliamhe)
 - [Bradley.L](https://github.com/BradleyLu)
 - [ÌìÕæÓÀ²»ÏûÊÅ](https://github.com/shiguanglindi)
@@ -57,5 +92,13 @@ Skylite ¿ªÔ´ÉÈÇøÏîÄ¿ÖÂÁ¦ÓÚÌá¹©Ãâ·Ñ¡¢¿ªÔ´µÄ Euroscope ÉÈÇøÒÔ°ïÖúÀ´×ÔÊÀ½ç¸÷µØµÄÄ£Ä
 - [Zihan Wang]()
 - [Master Gui](https://github.com/supermastergui)
 
+------
+
 ### ÉùÃ÷
-±¾ÏîÄ¿¿ÉÄÜ°üº¬À´Ô´ÓÚ¹«¿ª»¥ÁªÍø×ÊÔ´µÄÊı¾İ»òĞÅÏ¢¡£ËùÓĞ´ËÀàÄÚÈİ¾ùÎªÆä¸÷×ÔËùÓĞÕßµÄÖªÊ¶²úÈ¨¡£Ê¹ÓÃÕâĞ©×ÊÔ´½öÏŞÓÚ½ÌÓıºÍ·ÇÉÌÒµÄ¿µÄ£¬²¢×ñÊØÊÊÓÃµÄ°æÈ¨·¨ÂÉ¡£Èç¹ûÄúÊÇËùÊ¹ÓÃÄÚÈİµÄËùÓĞÕß²¢Ï£ÍûÆä±»ÒÆ³ı»ò»ñµÃÊÊµ±µÄÊğÃû£¬ÇëÓëÎÒÃÇÁªÏµ£¬ÎÒÃÇ½«²ÉÈ¡ÏàÓ¦´ëÊ©¡£
+±¾ÏîÄ¿¿ÉÄÜ°üº¬À´Ô´ÓÚ¹«¿ª»¥ÁªÍø×ÊÔ´µÄÊı¾İ»òĞÅÏ¢¡£
+
+ËùÓĞ´ËÀàÄÚÈİ¾ùÎªÆä¸÷×ÔËùÓĞÕßµÄÖªÊ¶²úÈ¨¡£
+
+Ê¹ÓÃÕâĞ©×ÊÔ´½öÏŞÓÚ½ÌÓıºÍ·ÇÉÌÒµÄ¿µÄ£¬²¢×ñÊØÊÊÓÃµÄ°æÈ¨·¨ÂÉ¡£
+
+Èç¹ûÄúÊÇËùÊ¹ÓÃÄÚÈİµÄËùÓĞÕß²¢Ï£ÍûÆä±»ÒÆ³ı»ò»ñµÃÊÊµ±µÄÊğÃû£¬ÇëÓëÎÒÃÇÁªÏµ£¬ÎÒÃÇ½«²ÉÈ¡ÏàÓ¦´ëÊ©¡£

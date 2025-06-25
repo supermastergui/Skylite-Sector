@@ -19,13 +19,9 @@ Plugins	Plugin3	\..\Data\Plugins\VCH\VCH.dll
 Plugins	Plugin3Display0	Standard ES radar screen
 Plugins	Plugin3Display1	Ground Radar display
 
-Plugins	Plugin4	\..\Data\Plugins\RDF\RDFPlugin.dll
+Plugins	Plugin4	\Plugins\DxRenderPlugin\DxRenderPlugin.dll
 Plugins	Plugin4Display0	Standard ES radar screen
 Plugins	Plugin4Display1	Ground Radar display
-
-Plugins	Plugin5	\Plugins\DxRenderPlugin\DxRenderPlugin.dll
-Plugins	Plugin5Display0	Standard ES radar screen
-Plugins	Plugin5Display1	Ground Radar display
 
 ASRFastKeys	1	\ASRs\ZJSA_ACC.asr
 ASRFastKeys	2	\ASRs\ZJHK_GMC.asr

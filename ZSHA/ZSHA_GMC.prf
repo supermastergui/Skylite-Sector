@@ -19,17 +19,13 @@ Plugins	Plugin3	\..\Data\Plugins\VCH\VCH.dll
 Plugins	Plugin3Display0	Standard ES radar screen
 Plugins	Plugin3Display1	Ground Radar display
 
-Plugins	Plugin4	\..\Data\Plugins\RDF\RDFPlugin.dll
+Plugins	Plugin4	\..\Data\Plugins\Compass\ESCompass.dll
 Plugins	Plugin4Display0	Standard ES radar screen
 Plugins	Plugin4Display1	Ground Radar display
 
-Plugins	Plugin5	\..\Data\Plugins\Compass\ESCompass.dll
-Plugins	Plugin5Display0	Standard ES radar screen
-Plugins	Plugin5Display1	Ground Radar display
-
-Plugins	Plugin6	\Plugins\DxRenderPlugin\DxRenderPlugin.dll
-Plugins	Plugin6Display0	Standard ES radar screen
-Plugins	Plugin6Display1	Ground Radar display
+Plugins	Plugin4	\Plugins\DxRenderPlugin\DxRenderPlugin.dll
+Plugins	Plugin4Display0	Standard ES radar screen
+Plugins	Plugin4Display1	Ground Radar display
 
 Settings	alias	\..\Data\Settings\alias.txt
 Settings	ipaddr	\..\Data\Settings\Ip_address.txt

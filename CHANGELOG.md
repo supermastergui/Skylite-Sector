@@ -10,3 +10,4 @@
 1. 修改General
 1. 修改各prf以适配F1+123456789切换
 1. 登陆界面取消connect to vatsim的勾
+1. 修改README和HTML，删除RDF插件
