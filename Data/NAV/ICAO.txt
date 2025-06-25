@@ -1,9 +1,3 @@
-;-----------------------------------------------------------------
-;ATC Simulation Club Sector ICAO Data File
-;The data file intended for simulator only Do not use for reality
-;AIRAC Cycle : 2506 (12/JUN/2025-10/JUL/2025) - Ver.1
-;Creative time:GMT (UTC+8) 2025-06-14 12:35:57
-;-----------------------------------------------------------------
 AGAR	-9.860556	161.980000	Arona
 AGAT	-8.873333	161.011500	Atoifi
 AGGA	-8.705483	160.681725	Auki

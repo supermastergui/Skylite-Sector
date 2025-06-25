@@ -65,8 +65,12 @@ Skylite ¿ªÔ´ÉÈÇøÏîÄ¿ÖÂÁ¦ÓÚÌá¹©Ãâ·Ñ¡¢¿ªÔ´µÄ Euroscope ÉÈÇøÒÔ°ïÖúÀ´×ÔÊÀ½ç¸÷µØµÄÄ£Ä
 ------
 
 ### Íâ²¿ÄÚÈİ
-- TopSky Symbols from [uk-controller-pack](https://github.com/VATSIM-UK/uk-controller-pack)
-- TopSky Cursors from [VATPRC](https://www.vatprc.net/)
+
+| Ãû³Æ                | À´Ô´                                                         |
+| ------------------- | ------------------------------------------------------------ |
+| TopSky Symbols      | [uk-controller-pack](https://github.com/VATSIM-UK/uk-controller-pack) |
+| TopSky Cursors      | [VATPRC](https://www.vatprc.net/)                            |
+| AircraftPerformance | [VATSIM](https://github.com/vatsimnetwork/euroscope-performance-data) |
 
 ------
 
