@@ -13,3 +13,4 @@
 1. 修改README和HTML，删除RDF插件
 1. 修改README和HTML，调整AircraftPerformance以及ICAO.txt的版权问题
 1. 修改README和HTML，更新导航数据至2506
+1. 修改各.sct，修复INFO显示的版本号错误
