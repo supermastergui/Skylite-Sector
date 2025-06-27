@@ -84,7 +84,7 @@ Skylite ¿ªÔ´ÉÈÇøÏîÄ¿ÖÂÁ¦ÓÚÌá¹©Ãâ·Ñ¡¢¿ªÔ´µÄ Euroscope ÉÈÇøÒÔ°ïÖúÀ´×ÔÊÀ½ç¸÷µØµÄÄ£Ä
 
 ### ¹±Ï×Õß
 
-- [William He](https://github.com/fwilliamhe)
+- [William He](https://github.com/Misaka-Nnnnq)
 - [Bradley.L](https://github.com/BradleyLu)
 - [ÌìÕæÓÀ²»ÏûÊÅ](https://github.com/shiguanglindi)
 - [Yifan Jin](https://github.com/N28888)

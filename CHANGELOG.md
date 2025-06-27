@@ -12,3 +12,4 @@
 1. 登陆界面取消connect to vatsim的勾
 1. 修改README和HTML，删除RDF插件
 1. 修改README和HTML，调整AircraftPerformance以及ICAO.txt的版权问题
+1. 修改README和HTML，更新导航数据至2506
